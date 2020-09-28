@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import webbrowser
 c = webbrowser.get('chromium')
 
