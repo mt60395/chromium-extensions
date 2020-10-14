@@ -3,20 +3,20 @@
 
 Downloads the following Chrome Web Store extensions for Chromium:
 
-- uBlock Origin
+- [uBlock Origin](https://clients2.google.com/service/update2/crx?response=redirect&prodversion=49.0&acceptformat=crx3&x=id%3Dcjpalhdlnbpafiamejdnhcphjbkeiagm%26installsource%3Dondemand%26uc)
 
-- HTTPS Everywhere
+- [HTTPS Everywhere](https://clients2.google.com/service/update2/crx?response=redirect&prodversion=49.0&acceptformat=crx3&x=id%3Dgcbommkclmclpchllfjekcdonpmejbdp%26installsource%3Dondemand%26uc)
 
-- Cookie Auto Delete
+- [Cookie Auto Delete](https://clients2.google.com/service/update2/crx?response=redirect&prodversion=49.0&acceptformat=crx3&x=id%3Dfhcgjolkccmbidfldomjliifgaodjagh%26installsource%3Dondemand%26uc)
 
-- History Auto Delete
+- [History Auto Delete](https://clients2.google.com/service/update2/crx?response=redirect&prodversion=49.0&acceptformat=crx3&x=id%3Dbhfakmaiadhflpjloimlagikhodjiefj%26installsource%3Dondemand%26uc)
 
-- DuckDuckGo Privacy Essentials
+- [DuckDuckGo Privacy Essentials](https://clients2.google.com/service/update2/crx?response=redirect&prodversion=49.0&acceptformat=crx3&x=id%3Dbkdgflcldnnnapblkhphbgpggdiikppg%26installsource%3Dondemand%26uc)
 
-- Decentraleyes
+- [Decentraleyes](https://clients2.google.com/service/update2/crx?response=redirect&prodversion=49.0&acceptformat=crx3&x=id%3Dldpochfccmkkmhdbclfhpagapcfdljkj%26installsource%3Dondemand%26uc)
 
 ## Notice
-Windows may require you to register browsers for the webbrowser module. You may modify the Python script to remove 'chromium' from webbrowser.get() to use the default web browser; this means you must set Chromium as your default web browser.
+You can also access the links for each extension through the README.
 
 ## Installation
 - Go to ```chrome://flags/#extension-mime-request-handling``` and enable "Always prompt for install" under "Handling of extension MIME type requests".
